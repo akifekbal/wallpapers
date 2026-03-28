@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "Neon Wave",
+    "author": "Akif",
+    "url": "https://yourusername.github.io/wallpapers/images/wall1.jpg",
+    "thumb": "https://yourusername.github.io/wallpapers/images/wall1.jpg"
+  },
+  {
+    "name": "Dark Glow",
+    "author": "Akif",
+    "url": "https://yourusername.github.io/wallpapers/images/wall2.jpg",
+    "thumb": "https://yourusername.github.io/wallpapers/images/wall2.jpg"
+  }
+]
