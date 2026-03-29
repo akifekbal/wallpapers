@@ -3,19 +3,17 @@
     "category": "Abstract",
     "wallpapers": [
       {
-  
-    "name": "Neon Wave",
-    "author": "Akif",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall.jpg"
-  },
-  {
-    "name": "Dark Glow",
-    "author": "Akif",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall_1.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall_1.jpg"
-  }
+        "name": "Neon Wave",
+        "author": "Akif",
+        "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall.jpg",
+        "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall.jpg"
+      },
+      {
+        "name": "Dark Glow",
+        "author": "Akif",
+        "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall_1.jpg",
+        "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall_1.jpg"
+      }
     ]
   }
 ]
-
