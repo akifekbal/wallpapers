@@ -1,5 +1,9 @@
 [
   {
+    "category": "Abstract",
+    "wallpapers": [
+      {
+  
     "name": "Neon Wave",
     "author": "Akif",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall.jpg",
@@ -11,4 +15,7 @@
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall_1.jpg",
     "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall_1.jpg"
   }
+    ]
+  }
 ]
+
