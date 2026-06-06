@@ -1,1398 +1,178 @@
 [
-   {
+  {
     "name": "Amber Fractal",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Fractal.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Fractal.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Fractal.jpg",
+    "categories": "Abstract",
+    "premium": false
   },
   {
     "name": "Amber Garden",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Garden.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Garden.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Garden.jpg",
+    "categories": "Adventure",
+    "premium": false
   },
   {
     "name": "Amber Vector",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Vector.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Vector.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Vector.jpg",
+    "categories": "Alone",
+    "premium": false
   },
   {
     "name": "Amber Vertex",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Vertex.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Vertex.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Amber Vertex.jpg",
+    "categories": "Amoled",
+    "premium": false
   },
   {
     "name": "Blazing Cascade",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Blazing Cascade.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Blazing Cascade.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Blazing Cascade.jpg",
+    "categories": "Animal",
+    "premium": false
   },
   {
     "name": "Blazing Realm",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Blazing Realm.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Blazing Realm.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Blazing Realm.jpg",
+    "categories": "Architecture",
+    "premium": false
   },
   {
     "name": "Chrome Gradient",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Gradient.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Gradient.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Gradient.jpg",
+    "categories": "Art",
+    "premium": false
   },
   {
     "name": "Chrome Shimmer",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Shimmer.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Shimmer.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Shimmer.jpg",
+    "categories": "Comics",
+    "premium": false
   },
   {
     "name": "Chrome Storm",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Storm.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Storm.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Storm.jpg",
+    "categories": "Design",
+    "premium": false
   },
   {
     "name": "Chrome Terrain",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Terrain.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Terrain.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Chrome Terrain.jpg",
+    "categories": "Earth",
+    "premium": false
   },
   {
     "name": "Cosmic Glow",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cosmic Glow.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cosmic Glow.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cosmic Glow.jpg",
+    "categories": "Flowers",
+    "premium": false
   },
   {
     "name": "Crimson Cascade",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crimson Cascade.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crimson Cascade.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crimson Cascade.jpg",
+    "categories": "Food",
+    "premium": false
   },
   {
     "name": "Crimson Shimmer",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crimson Shimmer.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crimson Shimmer.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crimson Shimmer.jpg",
+    "categories": "Gradient",
+    "premium": false
   },
   {
     "name": "Crimson Vector",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crimson Vector.jpeg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crimson Vector.jpeg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crimson Vector.jpeg",
+    "categories": "Illustration",
+    "premium": false
   },
   {
     "name": "Crystal Fractal",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crystal Fractal.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crystal Fractal.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crystal Fractal.jpg",
+    "categories": "Nature",
+    "premium": false
   },
   {
     "name": "Crystal Orbit",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crystal Orbit.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crystal Orbit.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Crystal Orbit.jpg",
+    "categories": "Neon",
+    "premium": false
   },
   {
     "name": "Cyber Fractal",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Fractal.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Fractal.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Fractal.jpg",
+    "categories": "Space",
+    "premium": false
   },
   {
     "name": "Cyber Garden",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Garden.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Garden.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Garden.jpg",
+    "categories": "Spiritual",
+    "premium": false
   },
   {
     "name": "Cyber Mirage",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Mirage.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Mirage.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Mirage.jpg",
+    "categories": "Super Heroes",
+    "premium": false
   },
   {
     "name": "Cyber Reef",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Reef.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Reef.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Cyber Reef.jpg",
+    "categories": "Texture",
+    "premium": false
   },
   {
     "name": "Dreamy Abyss",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Abyss.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Abyss.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Abyss.jpg",
+    "categories": "Vehicles",
+    "premium": false
   },
   {
     "name": "Dreamy Nebula",
     "author": "AKIF IQBAL",
     "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Nebula.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Nebula.jpg"
-  },
-  {
-    "name": "Dreamy Pathway",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Pathway.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Pathway.jpg"
-  },
-  {
-    "name": "Dreamy Skyline",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Skyline.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Skyline.jpg"
-  },
-  {
-    "name": "Dreamy Temple",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Temple.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Temple.jpg"
-  },
-  {
-    "name": "Dreamy Terrain",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Terrain.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Terrain.jpg"
-  },
-  {
-    "name": "Dreamy Vista",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Vista.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Vista.jpg"
-  },
-  {
-    "name": "Echo Fractal",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Echo Fractal.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Echo Fractal.jpg"
-  },
-  {
-    "name": "Echo Gradient",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Echo Gradient.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Echo Gradient.jpg"
-  },
-  {
-    "name": "Echo Orbit",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Echo Orbit.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Echo Orbit.jpg"
-  },
-  {
-    "name": "Echo Pathway",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Echo Pathway.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Echo Pathway.jpg"
-  },
-  {
-    "name": "Electric Fountain",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Fountain.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Fountain.jpg"
-  },
-  {
-    "name": "Electric Horizon",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Horizon.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Horizon.jpg"
-  },
-  {
-    "name": "Electric Matrix",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Matrix.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Matrix.jpg"
-  },
-  {
-    "name": "Electric Pulse",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Pulse.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Pulse.jpg"
-  },
-  {
-    "name": "Electric Reef",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Reef.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Reef.jpg"
-  },
-  {
-    "name": "Electric Synthesis",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Synthesis.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Electric Synthesis.jpg"
-  },
-  {
-    "name": "Emerald Glow",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Emerald Glow.jpeg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Emerald Glow.jpeg"
-  },
-  {
-    "name": "Emerald Gradient",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Emerald Gradient.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Emerald Gradient.jpg"
-  },
-  {
-    "name": "Emerald Horizon",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Emerald Horizon.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Emerald Horizon.jpg"
-  },
-  {
-    "name": "Frosty Circuit",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Circuit.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Circuit.jpg"
-  },
-  {
-    "name": "Frosty Horizon",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Horizon.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Horizon.jpg"
-  },
-  {
-    "name": "Frosty Nebula",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Nebula.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Nebula.jpg"
-  },
-  {
-    "name": "Frosty Quartz",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Quartz.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Quartz.jpg"
-  },
-  {
-    "name": "Frosty Realm",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Realm.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Realm.jpg"
-  },
-  {
-    "name": "Frosty Reef",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Reef.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Frosty Reef.jpg"
-  },
-  {
-    "name": "Glacial Cascade",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glacial Cascade.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glacial Cascade.jpg"
-  },
-  {
-    "name": "Glowing Garden",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glowing Garden.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glowing Garden.jpg"
-  },
-  {
-    "name": "Glowing Helix",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glowing Helix.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glowing Helix.jpg"
-  },
-  {
-    "name": "Glowing Horizon",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glowing Horizon.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glowing Horizon.jpg"
-  },
-  {
-    "name": "Glowing Quartz",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glowing Quartz.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glowing Quartz.jpg"
-  },
-  {
-    "name": "Glowing Shores",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glowing Shores.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Glowing Shores.jpg"
-  },
-  {
-    "name": "Golden Abyss",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Golden Abyss.jpeg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Golden Abyss.jpeg"
-  },
-  {
-    "name": "Golden Aurora",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Golden Aurora.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Golden Aurora.jpg"
-  },
-  {
-    "name": "Golden Quartz",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Golden Quartz.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Golden Quartz.jpg"
-  },
-  {
-    "name": "Golden Reef",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Golden Reef.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Golden Reef.jpg"
-  },
-  {
-    "name": "Hazy Cascade",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Hazy Cascade.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Hazy Cascade.jpg"
-  },
-  {
-    "name": "Hazy Reef",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Hazy Reef.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Hazy Reef.jpg"
-  },
-  {
-    "name": "Hazy Temple",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Hazy Temple.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Hazy Temple.jpg"
-  },
-  {
-    "name": "Holographic Galaxy",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Holographic Galaxy.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Holographic Galaxy.jpg"
-  },
-  {
-    "name": "Holographic Pulse",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Holographic Pulse.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Holographic Pulse.jpg"
-  },
-  {
-    "name": "Holographic Shores",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Holographic Shores.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Holographic Shores.jpg"
-  },
-  {
-    "name": "Holographic Skyline",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Holographic Skyline.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Holographic Skyline.jpg"
-  },
-  {
-    "name": "Lunar Fountain",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Lunar Fountain.jpeg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Lunar Fountain.jpeg"
-  },
-  {
-    "name": "Lunar Horizon",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Lunar Horizon.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Lunar Horizon.jpg"
-  },
-  {
-    "name": "Lunar Skyline",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Lunar Skyline.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Lunar Skyline.jpg"
-  },
-  {
-    "name": "Lunar Vista",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Lunar Vista.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Lunar Vista.jpg"
-  },
-  {
-    "name": "Midnight Orbit",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Midnight Orbit.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Midnight Orbit.jpg"
-  },
-  {
-    "name": "Midnight Shimmer",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Midnight Shimmer.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Midnight Shimmer.jpg"
-  },
-  {
-    "name": "Midnight Temple",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Midnight Temple.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Midnight Temple.jpg"
-  },
-  {
-    "name": "Midnight Vertex",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Midnight Vertex.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Midnight Vertex.jpg"
-  },
-  {
-    "name": "Mystic Helix",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Mystic Helix.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Mystic Helix.jpg"
-  },
-  {
-    "name": "Mystic Quartz",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Mystic Quartz.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Mystic Quartz.jpg"
-  },
-  {
-    "name": "Mystic Realm",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Mystic Realm.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Mystic Realm.jpg"
-  },
-  {
-    "name": "Neon Circuit",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Neon Circuit.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Neon Circuit.jpg"
-  },
-  {
-    "name": "Neon Fractal",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Neon Fractal.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Neon Fractal.jpg"
-  },
-  {
-    "name": "Neon Shimmer",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Neon Shimmer.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Neon Shimmer.jpg"
-  },
-  {
-    "name": "Neon Storm",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Neon Storm.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Neon Storm.jpg"
-  },
-  {
-    "name": "Oceanic Aurora",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Aurora.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Aurora.jpg"
-  },
-  {
-    "name": "Oceanic Glow",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Glow.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Glow.jpg"
-  },
-  {
-    "name": "Oceanic Horizon",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Horizon.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Horizon.jpg"
-  },
-  {
-    "name": "Oceanic Pathway",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Pathway.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Pathway.jpg"
-  },
-  {
-    "name": "Oceanic Skyline",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Skyline.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Skyline.jpg"
-  },
-  {
-    "name": "Oceanic Terrain",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Terrain.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Oceanic Terrain.jpg"
-  },
-  {
-    "name": "Pixel Cascade",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Pixel Cascade.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Pixel Cascade.jpg"
-  },
-  {
-    "name": "Pixel Galaxy",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Pixel Galaxy.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Pixel Galaxy.jpg"
-  },
-  {
-    "name": "Pixel Temple",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Pixel Temple.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Pixel Temple.jpg"
-  },
-  {
-    "name": "Pixel Wave",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Pixel Wave.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Pixel Wave.jpg"
-  },
-  {
-    "name": "Prism Garden",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Prism Garden.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Prism Garden.jpg"
-  },
-  {
-    "name": "Radiant Flux",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Radiant Flux.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Radiant Flux.jpg"
-  },
-  {
-    "name": "Radiant Orbit",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Radiant Orbit.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Radiant Orbit.jpg"
-  },
-  {
-    "name": "Radiant Quartz",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Radiant Quartz.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Radiant Quartz.jpg"
-  },
-  {
-    "name": "Radiant Temple",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Radiant Temple.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Radiant Temple.jpg"
-  },
-  {
-    "name": "Radiant Vector",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Radiant Vector.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Radiant Vector.jpg"
-  },
-  {
-    "name": "Retro Orbit",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Orbit.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Orbit.jpg"
-  },
-  {
-    "name": "Retro Shores",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Shores.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Shores.jpg"
-  },
-  {
-    "name": "Retro Skyline",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Skyline.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Skyline.jpg"
-  },
-  {
-    "name": "Retro Terrain",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Terrain.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Terrain.jpg"
-  },
-  {
-    "name": "Retro Vista",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Vista.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Vista.jpg"
-  },
-  {
-    "name": "Retro Wave",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Wave.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Retro Wave.jpg"
-  },
-  {
-    "name": "Shadow Fountain",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Shadow Fountain.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Shadow Fountain.jpg"
-  },
-  {
-    "name": "Shadow Garden",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Shadow Garden.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Shadow Garden.jpg"
-  },
-  {
-    "name": "Shadow Realm",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Shadow Realm.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Shadow Realm.jpg"
-  },
-  {
-    "name": "Shadow Synthesis",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Shadow Synthesis.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Shadow Synthesis.jpg"
-  },
-  {
-    "name": "Shadow Terrain",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Shadow Terrain.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Shadow Terrain.jpg"
-  },
-  {
-    "name": "Silent Realm",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Silent Realm.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Silent Realm.jpg"
-  },
-  {
-    "name": "Solar Aurora",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Solar Aurora.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Solar Aurora.jpg"
-  },
-  {
-    "name": "Solar Drift",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Solar Drift.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Solar Drift.jpg"
-  },
-  {
-    "name": "Solar Glow",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Solar Glow.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Solar Glow.jpg"
-  },
-  {
-    "name": "Solar Vertex",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Solar Vertex.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Solar Vertex.jpg"
-  },
-  {
-    "name": "Toxic Cascade",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Cascade.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Cascade.jpg"
-  },
-  {
-    "name": "Toxic Horizon",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Horizon.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Horizon.jpg"
-  },
-  {
-    "name": "Toxic Mirage",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Mirage.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Mirage.jpg"
-  },
-  {
-    "name": "Toxic Pulse",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Pulse.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Pulse.jpg"
-  },
-  {
-    "name": "Toxic Shimmer",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Shimmer.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Shimmer.jpg"
-  },
-  {
-    "name": "Toxic Skyline",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Skyline.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Toxic Skyline.jpg"
-  },
-  {
-    "name": "Twilight Pulse",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Twilight Pulse.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Twilight Pulse.jpg"
-  },
-  {
-    "name": "Twilight Vista",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Twilight Vista.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Twilight Vista.jpg"
-  },
-  {
-    "name": "Vapor Circuit",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Circuit.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Circuit.jpg"
-  },
-  {
-    "name": "Vapor Nebula",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Nebula.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Nebula.jpg"
-  },
-  {
-    "name": "Vapor Pathway",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Pathway.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Pathway.jpg"
-  },
-  {
-    "name": "Vapor Shores",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Shores.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Shores.jpg"
-  },
-  {
-    "name": "Vapor Temple",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Temple.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Temple.jpg"
-  },
-  {
-    "name": "Vapor Vector",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Vector.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Vector.jpg"
-  },
-  {
-    "name": "Vapor Vertex",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Vertex.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Vapor Vertex.jpg"
-  },
-  {
-    "name": "Velvet Fountain",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Velvet Fountain.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Velvet Fountain.jpg"
-  },
-  {
-    "name": "Velvet Orbit",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Velvet Orbit.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Velvet Orbit.jpg"
-  },
-  {
-    "name": "Velvet Temple",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Velvet Temple.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Velvet Temple.jpg"
-  },
-  {
-    "name": "Velvet Vector",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Velvet Vector.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Velvet Vector.jpg"
-  },
-  {
-    "name": "Neon Horizon",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall.jpg"
-  },
-  {
-    "name": "Cyber Pulse",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall2.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall2.jpg"
-  },
-  {
-    "name": "Midnight Glow",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall3.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall3.jpg"
-  },
-  {
-    "name": "Electric Dreams",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall4.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall4.jpg"
-  },
-  {
-    "name": "Future Vibes",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall5.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall5.jpg"
-  },
-  
-  {
-    "name": "Dark Matter",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall6.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall6.jpg"
-  },
-  {
-    "name": "Silent Aura",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall7.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall7.jpg"
-  },
-  {
-    "name": "Neon Streets",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall8.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall8.jpg"
-  },
-  {
-    "name": "Frozen Lights",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall9.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall9.jpg"
-  },
-  {
-    "name": "Quantum Glow",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall10.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall10.jpg"
-  },
-  {
-    "name": "Cyber Shadows",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall11.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall11.jpg"
-  },
-  {
-    "name": "Dream Grid",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall12.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall12.jpg"
-  },
-  {
-    "name": "Velvet Night",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall13.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall13.jpg"
-  },
-  {
-    "name": "Hyper Motion",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall14.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall14.jpg"
-  },
-  {
-    "name": "Moonlight Drift",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall15.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall15.jpg"
-  },
-  {
-    "name": "Urban Mirage",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall16.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall16.jpg"
-  },
-  {
-    "name": "Nova Spark",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall17.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall17.jpg"
-  },
-  {
-    "name": "Galaxy Echo",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall18.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall18.jpg"
-  },
-  {
-    "name": "Digital Ocean",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall19.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall19.jpg"
-  },
-  {
-    "name": "Mystic Neon",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall20.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall20.jpg"
-  },
-  {
-    "name": "Cosmic Ray",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall21.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall21.jpg"
-  },
-  {
-    "name": "Electric Aura",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall22.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall22.jpg"
-  },
-  {
-    "name": "Infinite Space",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall23.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall23.jpg"
-  },
-  {
-    "name": "Neon Rush",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall24.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall24.jpg"
-  },
-  {
-    "name": "Digital Flame",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall25.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall25.jpg"
-  },
-  {
-    "name": "Shadow Wave",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall26.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall26.jpg"
-  },
-  {
-    "name": "Cyber Night",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall27.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall27.jpg"
-  },
-  {
-    "name": "Retro Future",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall28.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall28.jpg"
-  },
-  {
-    "name": "Night Engine",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall29.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall29.jpg"
-  },
-  {
-    "name": "Lunar Glow",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall30.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall30.jpg"
-  },
-  {
-    "name": "Future Pulse",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall31.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall31.jpg"
-  },
-  {
-    "name": "Cosmic Dreams",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall32.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall32.jpg"
-  },
-  {
-    "name": "Midnight Pulse",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall33.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall33.jpg"
-  },
-  {
-    "name": "Silent Neon",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall34.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall34.jpg"
-  },
-  {
-    "name": "Aurora Lights",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall35.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall35.jpg"
-  },
- 
-  {
-    "name": "Nova Dreams",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall37.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall37.jpg"
-  },
-  {
-    "name": "Dark Glow",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall38.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/wall38.jpg"
- },
-
-
-    {
-    "name": "15A39637A2F3Dc68C355Ccbe5Ef17718",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/15a39637a2f3dc68c355ccbe5ef17718.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/15a39637a2f3dc68c355ccbe5ef17718.jpg"
-  },
-  {
-    "name": "184Cb25F9608C4Bf4Fe6E4F75Caa6D47",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/184cb25f9608c4bf4fe6e4f75caa6d47.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/184cb25f9608c4bf4fe6e4f75caa6d47.jpg"
-  },
-  {
-    "name": "20Ce188Cdb775B165943993F51B87299",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/20ce188cdb775b165943993f51b87299.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/20ce188cdb775b165943993f51b87299.jpg"
-  },
-  {
-    "name": "21F7D0Ee8A581244Ec8750A0B4B46739",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/21f7d0ee8a581244ec8750a0b4b46739.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/21f7d0ee8a581244ec8750a0b4b46739.jpg"
-  },
-  {
-    "name": "23D8Bf112C09Ddc88B4010957E65517B",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/23d8bf112c09ddc88b4010957e65517b.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/23d8bf112c09ddc88b4010957e65517b.jpg"
-  },
-  {
-    "name": "24Cf20B008Ae1331B8D72962040582F8",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/24cf20b008ae1331b8d72962040582f8.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/24cf20b008ae1331b8d72962040582f8.jpg"
-  },
-  {
-    "name": "2E18386B3649E5E6A6Da4F38B525B6Cb",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/2e18386b3649e5e6a6da4f38b525b6cb.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/2e18386b3649e5e6a6da4f38b525b6cb.jpg"
-  },
-  {
-    "name": "2E86A4973Cca8Ae79Ac52188655E6725",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/2e86a4973cca8ae79ac52188655e6725.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/2e86a4973cca8ae79ac52188655e6725.jpg"
-  },
-  {
-    "name": "2Eb21C0084Fc5F49F1636Fdf3C732D7D",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/2eb21c0084fc5f49f1636fdf3c732d7d.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/2eb21c0084fc5f49f1636fdf3c732d7d.jpg"
-  },
-  {
-    "name": "2Fbdc550B71E27Fbc1A104Ff99704734",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/2fbdc550b71e27fbc1a104ff99704734.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/2fbdc550b71e27fbc1a104ff99704734.jpg"
-  },
-  {
-    "name": "43C3A8Eed64Fde70Bdf7426146A4B1F6",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/43c3a8eed64fde70bdf7426146a4b1f6.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/43c3a8eed64fde70bdf7426146a4b1f6.jpg"
-  },
-  {
-    "name": "57Ea898844B18668B14Be3A189928999",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/57ea898844b18668b14be3a189928999.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/57ea898844b18668b14be3a189928999.jpg"
-  },
-  {
-    "name": "5B27Df5E17B9B8F72239D61F65C2322A",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/5b27df5e17b9b8f72239d61f65c2322a.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/5b27df5e17b9b8f72239d61f65c2322a.jpg"
-  },
-  {
-    "name": "5D8D863Fb424F72A79Bd0658Ef0F0B42",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/5d8d863fb424f72a79bd0658ef0f0b42.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/5d8d863fb424f72a79bd0658ef0f0b42.jpg"
-  },
-  {
-    "name": "5Eaec61C107Bac93362114Ef67E50Ae2",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/5eaec61c107bac93362114ef67e50ae2.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/5eaec61c107bac93362114ef67e50ae2.jpg"
-  },
-  {
-    "name": "60C38F7180C8140364B0663A869E46F3",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/60c38f7180c8140364b0663a869e46f3.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/60c38f7180c8140364b0663a869e46f3.jpg"
-  },
-  {
-    "name": "77D7845648C9E27A3F7179B71E1Bf7C1",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/77d7845648c9e27a3f7179b71e1bf7c1.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/77d7845648c9e27a3f7179b71e1bf7c1.jpg"
-  },
-  {
-    "name": "829056F3Bd07Fdb6Eea73F47B9989Dfb",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/829056f3bd07fdb6eea73f47b9989dfb.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/829056f3bd07fdb6eea73f47b9989dfb.jpg"
-  },
-  {
-    "name": "8A93E2D45300C16Ee6D21De7425D805E",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/8a93e2d45300c16ee6d21de7425d805e.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/8a93e2d45300c16ee6d21de7425d805e.jpg"
-  },
-  {
-    "name": "8C7Bd6Ff3Bc047A30264A970D7E22C97",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/8c7bd6ff3bc047a30264a970d7e22c97.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/8c7bd6ff3bc047a30264a970d7e22c97.jpg"
-  },
-  {
-    "name": "8Fa2713Fba5Ffe120E76C781D9E1588A",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/8fa2713fba5ffe120e76c781d9e1588a.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/8fa2713fba5ffe120e76c781d9e1588a.jpg"
-  },
-  {
-    "name": "Ae588B7238B0Aad3E09B8Bd57Bc573Eb",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/ae588b7238b0aad3e09b8bd57bc573eb.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/ae588b7238b0aad3e09b8bd57bc573eb.jpg"
-  },
-  {
-    "name": "E21578B84E9E8D0E99Ba948F867B5A24",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/e21578b84e9e8d0e99ba948f867b5a24.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/e21578b84e9e8d0e99ba948f867b5a24.jpg"
-  },
-  {
-    "name": "Ec5592Be794A30D490E653D117216601",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/ec5592be794a30d490e653d117216601.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/ec5592be794a30d490e653d117216601.jpg"
-  },
-  {
-    "name": "F5Cbbe5C9Ce7D148F5643Fb0E3104269",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/f5cbbe5c9ce7d148f5643fb0e3104269.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/f5cbbe5c9ce7d148f5643fb0e3104269.jpg"
-  },
-  {
-    "name": "Fcd8752B2002308C0791Dd4F342Dd3Bb",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/fcd8752b2002308c0791dd4f342dd3bb.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/fcd8752b2002308c0791dd4f342dd3bb.jpg"
-  },
-  {
-    "name": "Fe3D905339F549D4D3A922F13A6Bcca2",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/fe3d905339f549d4d3a922f13a6bcca2.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/fe3d905339f549d4d3a922f13a6bcca2.jpg"
-  },
-  {
-    "name": "Fe61D3Dfd0Bb5907Af3898A667C512E7",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/fe61d3dfd0bb5907af3898a667c512e7.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/fe61d3dfd0bb5907af3898a667c512e7.jpg"
-  },
-  {
-    "name": "Fe7Ac141F7F8258Be38B353369F328C3",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/fe7ac141f7f8258be38b353369f328c3.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/fe7ac141f7f8258be38b353369f328c3.jpg"
-  },
-  {
-    "name": "Img 20241210 050734 951",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20241210_050734_951.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20241210_050734_951.jpg"
-  },
-  {
-    "name": "Img 20241210 050735 051",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20241210_050735_051.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20241210_050735_051.jpg"
-  },
-  {
-    "name": "Img 20241210 050735 096",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20241210_050735_096.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20241210_050735_096.jpg"
-  },
-  {
-    "name": "Img 20241210 050735 566",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20241210_050735_566.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20241210_050735_566.jpg"
-  },
-  {
-    "name": "Img 20250430 231406 778",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231406_778.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231406_778.jpg"
-  },
-  {
-    "name": "Img 20250430 231410 102",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231410_102.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231410_102.jpg"
-  },
-  {
-    "name": "Img 20250430 231413 379",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231413_379.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231413_379.jpg"
-  },
-  {
-    "name": "Img 20250430 231422 676",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231422_676.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231422_676.jpg"
-  },
-  {
-    "name": "Img 20250430 231439 016",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231439_016.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231439_016.jpg"
-  },
-  {
-    "name": "Img 20250430 231439 880",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231439_880.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231439_880.jpg"
-  },
-  {
-    "name": "Img 20250430 231444 848",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231444_848.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231444_848.jpg"
-  },
-  {
-    "name": "Img 20250430 231445 419",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231445_419.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231445_419.jpg"
-  },
-  {
-    "name": "Img 20250430 231457 064",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231457_064.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231457_064.jpg"
-  },
-  {
-    "name": "Img 20250430 231457 250",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231457_250.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231457_250.jpg"
-  },
-  {
-    "name": "Img 20250430 231457 367",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231457_367.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231457_367.jpg"
-  },
-  {
-    "name": "Img 20250430 231457 797",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231457_797.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231457_797.jpg"
-  },
-  {
-    "name": "Img 20250430 231511 798",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231511_798.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231511_798.jpg"
-  },
-  {
-    "name": "Img 20250430 231511 963",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231511_963.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231511_963.jpg"
-  },
-  {
-    "name": "Img 20250430 231512 241",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231512_241.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231512_241.jpg"
-  },
-  {
-    "name": "Img 20250430 231512 318",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231512_318.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231512_318.jpg"
-  },
-  {
-    "name": "Img 20250430 231634 454",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231634_454.JPG",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231634_454.JPG"
-  },
-  {
-    "name": "Img 20250430 231730 674",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231730_674.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250430_231730_674.jpg"
-  },
-  {
-    "name": "Img 20250506 001742 363",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_001742_363.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_001742_363.jpg"
-  },
-  {
-    "name": "Img 20250506 001742 535",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_001742_535.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_001742_535.jpg"
-  },
-  {
-    "name": "Img 20250506 002045 525",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002045_525.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002045_525.jpg"
-  },
-  {
-    "name": "Img 20250506 002045 772",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002045_772.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002045_772.jpg"
-  },
-  {
-    "name": "Img 20250506 002220 049",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002220_049.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002220_049.jpg"
-  },
-  {
-    "name": "Img 20250506 002220 225",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002220_225.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002220_225.jpg"
-  },
-  {
-    "name": "Img 20250506 002220 434",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002220_434.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002220_434.jpg"
-  },
-  {
-    "name": "Img 20250506 002327 138",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002327_138.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002327_138.jpg"
-  },
-  {
-    "name": "Img 20250506 002327 724",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002327_724.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_002327_724.jpg"
-  },
-  {
-    "name": "Img 20250506 003129 876",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_003129_876.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_003129_876.jpg"
-  },
-  {
-    "name": "Img 20250506 003129 957",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_003129_957.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250506_003129_957.jpg"
-  },
-  {
-    "name": "Img 20250519 194345 576",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250519_194345_576.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250519_194345_576.jpg"
-  },
-  {
-    "name": "Img 20250519 194345 798",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250519_194345_798.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20250519_194345_798.jpg"
-  },
-  {
-    "name": "Img 20260405 050723 469",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20260405_050723_469.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20260405_050723_469.jpg"
-  },
-  {
-    "name": "Img 20260405 050723 781",
-    "author": "AKIF IQBAL",
-    "url": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20260405_050723_781.jpg",
-    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/IMG_20260405_050723_781.jpg"
+    "thumb": "https://raw.githubusercontent.com/akifekbal/wallpapers/main/images/Dreamy Nebula.jpg",
+    "categories": "Words",
+    "premium": false
   }
 ]
